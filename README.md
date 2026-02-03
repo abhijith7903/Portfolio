@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen.svg)](https://abhijith7903.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijiths7903/)
-[![Portfolio](https://img.shields.io/badge/Resume-Pdf-red.svg)](https://abhijith7903.github.io/portfolio/ABHIJITH%20S__RESUME.pdf)
+[![Portfolio](https://img.shields.io/badge/Resume-Pdf-red.svg)](https://abhijith7903.github.io/Portfolio/ABHIJITH%20S__RESUME.pdf)
 
 A high-performance, responsive portfolio website showcasing my journey as a **Computer Science & Engineering Graduate** and **Software Developer**. Designed with a focus on clean UI, accessibility, and professional storytelling.
 
